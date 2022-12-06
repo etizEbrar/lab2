@@ -53,11 +53,13 @@ public class Kasa {
      }
 
     public int getToplamSatisMiktari() {
-        return toplamSatisMiktari;
+
+    return toplamSatisMiktari;
     }
 
     public void setToplamSatisMiktari(int toplamSatisMiktari) {
-        this.toplamSatisMiktari = toplamSatisMiktari;
+
+    this.toplamSatisMiktari = toplamSatisMiktari;
     }
 
     public double getGunlukKar() {
@@ -65,7 +67,8 @@ public class Kasa {
     }
 
     public void setGunlukKar(double gunlukKar) {
-        this.gunlukKar = gunlukKar;
+
+    this.gunlukKar = gunlukKar;
     }
 
     public double getSalatalardaEldeEdilenKar() {
@@ -76,7 +79,8 @@ public class Kasa {
         this.salatalardaEldeEdilenKar = salatalardaEldeEdilenKar;
     }
 
-    public int getTatliSayisi() {
+    public int getTatliSayisi()
+    {
         return tatliSayisi;
     }
 
